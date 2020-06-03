@@ -1,6 +1,6 @@
 ## The Test Sandbox
 
-The test sandbox is a repo that contains dummy tests that sleep for random times and then pass.
+The test sandbox is a repo that contains dummy test that sleep for random times and then pass.
 
 `test_*` directories contain shell scripts that merely sleep for random durations to simulate durations of real tests.
 
