@@ -2,7 +2,7 @@
 
 The test sandbox is a repo that contains dummy test that sleep for random times and then pass.
 
-`test_*` directories contain shell scripts that merely sleep for random durations to simulate durations of real tests.
+`test_*` directories contain shell scripts that merely sleep for random duration to simulate durations of real tests.
 
 These test files and the command to run them are specified in the `.turbo_test.yml` configuration file, e.g.:
 
